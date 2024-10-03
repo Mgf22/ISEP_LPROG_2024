@@ -1,0 +1,18 @@
+#Enter the number of years of experience
+Experience-years: 3
+
+#Select one degree (None, Bachelor; Master, PhD)
+Academic-degree: Bachelor
+
+#If you have a degree, in which area (Computer Engineer; Computer Science; Some web-related specialization)
+Specialization: Computer Engineer
+
+#Select one or more programming languages (Java, Typescript, Angular, C, Python)
+Programming-Languages: Java,Angular
+
+#Select one or more languages (English, Spanish, French)
+Known-languages: English
+
+#Enter 3 of your best soft skills
+Soft-Skills: Criativity
+

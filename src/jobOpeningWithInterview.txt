@@ -1,0 +1,35 @@
+#Is Spring Framework used to build java applications?
+Spring Framework: V
+
+#What does WIFI stands for?
+WIFI Designation: Wireless Fidelity
+
+#Which one is not a database?
+#a. MongoDB
+#b. PostgreSQL
+#c. MySQL
+#d. IntelliJ IDEA
+Types of databases: d
+
+#What are the 2 most used front end technologies?
+#a. React
+#b. Angular
+#c. Vue,js
+#d. Svelte
+2 most used frontend technologies: a,b
+
+#How much is a byte in bits?
+Byte in bits: 8
+
+#You have 10 Windows Keys and you are selling them for 1.49$ a key. Your partner wants to buy 5 of them. How much will he pay?
+Windows keys: 7.45
+
+#What is the release date of Windows? (dd/mm/YYYY format)
+Windows release date: 20/11/1985
+
+#What is the exact time to start working in a 9/5 work? (hh:mm format)
+Hour to start working: 09:00
+
+#How much would you rate this LPROG work?
+LPROG work: 5/5
+
